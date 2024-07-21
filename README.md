@@ -1,3 +1,10 @@
+##  Credentials
+
+```bash
+anandagharami.am@gmail.com
+8420Anand@
+```
+
 ## 1. Clone the Repository
 
 ```bash
